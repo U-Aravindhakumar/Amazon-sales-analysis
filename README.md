@@ -4,7 +4,7 @@
 Sales management plays a crucial role in addressing increasing competition, optimizing distribution methods, and enhancing overall profitability. This project focuses on analyzing an Amazon dataset to derive insights into sales trends, key metrics, and relationships between attributes.
 
 ## Dataset
-The dataset used for this project can be found [here]([(https://drive.google.com/file/d/10sofXyF6NjwN6ngLyFfiPI-CUDpeqaN_/view?usp=share_link)]).
+The dataset used for this project can be found [here](https://drive.google.com/file/d/10sofXyF6NjwN6ngLyFfiPI-CUDpeqaN_/view?usp=share_link).
 
 ## Project Objectives
 1. **Sales Trend Analysis:**
